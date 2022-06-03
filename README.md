@@ -1,3 +1,5 @@
+To visit the app in your browser you can use a username of `admin` and a password of `admin`.
+
 # Important Note
 
 Please, please, please do **not** accidentally leak your environment variables in your .env file on your Github / GitLab / elsewhere.
